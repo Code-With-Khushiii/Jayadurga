@@ -241,7 +241,7 @@ function App() {
 
             {/* Logo */}
             <div className="text-xl md:text-2xl font-display text-black tracking-wide">
-              JAYADURGA KARATTUKUZHIYIL
+              JAYADURGA 
             </div>
 
             {/* Desktop Menu */}
@@ -326,7 +326,7 @@ function App() {
               />
             </div>
             <h1 className="text-5xl md:text-6xl font-display text-black mb-6 tracking-wide">
-              JAYADURGA KARATTUKUZHIYIL
+              JAYADURGA 
             </h1>
             <div className="text-lg text-brown mb-2 font-light tracking-widest">
               Estimator (Civil / Construction) · Quantity Take-Offs, BOQ & Cost Estimation · EIT Eligible
